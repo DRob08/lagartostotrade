@@ -1,0 +1,2 @@
+# lagartostotrade
+Stock Market Screener
